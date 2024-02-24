@@ -1,0 +1,15 @@
+2024-02-24 08:51:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from [*]where studentId=?"; expected "identifier"; SQL statement:
+select * from where studentId=? [42001-214]
+2024-02-24 08:59:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from [*]where studentId=?"; expected "identifier"; SQL statement:
+select * from where studentId=? [42001-214]
+2024-02-24 09:01:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from [*]where studentId=?"; expected "identifier"; SQL statement:
+select * from where studentId=? [42001-214]
+2024-02-24 09:02:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from [*]where studentId=?"; expected "identifier"; SQL statement:
+select * from where studentId=? [42001-214]
+2024-02-24 09:06:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from [*]where studentId=?"; expected "identifier"; SQL statement:
+select * from where studentId=? [42001-214]
